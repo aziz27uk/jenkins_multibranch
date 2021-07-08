@@ -1,7 +1,3 @@
 New changes done by developer
-
-some more changes dondddddddeddd
-
-
-cccccc
+New functionality has been added as per clients request in master branch.
 
